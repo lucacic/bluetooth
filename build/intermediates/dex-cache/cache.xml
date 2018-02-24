@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.1_16eb12bdfda230379405b5fbce66dca2ddc321b1.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_90c37726f2c4dca342433db5f911cb677148da15.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/me.aflak.libraries/pulltorefresh/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="403a89a8d65c7be6097d6d3b7cf736527fba005b">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/me.aflak.libraries-pulltorefresh-1.0_edd19aea4c90427a2f164bf1a3d8f6b6f4533fa6.jar" />
+    </item>
+    <item
+        jar="/home/luca/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ae43b60db91bda2f4193ebcf35654159ddbba5c2.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/me.aflak.libraries/bluetooth/1.2.4/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/me.aflak.libraries-bluetooth-1.2.4_b8e596193c539d5c2e3e5d4eb7be8835df9be8ae.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_41fad89268c815f67dbb3bbc8b9c0f1fccadff17.jar" />
+    </item>
+    <item
+        jar="/home/luca/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_8a8b57c6aa74c1522a40cd9eb4e9fd311e49423a.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.1_74572e4bc3ef5a5d5faf583a2e037a2c0c7d07c6.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_77552427d13e80e15cfeb9276c7a843d2f8d3ab0.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_248df0fb5393e3f1b24a5169c74ee201a9bd9785.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.1_ff699ec2136e19b98acbbfba15133947ed54a269.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_fc550b73312f93987c7c64d7b47632308caed7d9.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_eeee622abfdd1cf32edd8a7fca29b01adc5ff017.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_a985e65388a54a6d9314c6d0459ab73a76f11ecf.jar" />
+    </item>
+    <item
+        jar="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="/home/luca/Scrivania/BE-Design/testBluetoothAndroid/git/Bluetooth-Terminal/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.1_7ea59db8d0b1e0737f1235304e1a2ac1714887dc.jar" />
+    </item>
+
+</items>
